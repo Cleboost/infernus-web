@@ -1,2 +1,2 @@
-<button class="buttonPlay">Jouer</button>
-<p>Nous contactez</p>
+<button id="buttonPlay">Jouer</button>
+<button id="buttonSupport">Support</button>
