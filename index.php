@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php include("header.php") ?>
-    <h1>Infernusdqfsdfsqfsqdfs</h1>
+    <h1>Infernus</h1>
     
 </body>
 </html>
