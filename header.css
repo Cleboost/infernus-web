@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+body {
+    flex-direction: row;
+}
+
+.buttonPlay {
+    width: 10%;
+    height: 40px;
+    background-image: linear-gradient(red, rgb(180, 39, 39));
+    border-radius: 5px;
+    border-style: none;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttonPlay:hover {
+    width: 10%;
+    height: 40px;
+    background-image: none;
+    background: linear-gradient(red, rgb(98, 0, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    border-image: linear-gradient(red, rgb(98, 0, 255));
+    border-width: 20px;
+}
