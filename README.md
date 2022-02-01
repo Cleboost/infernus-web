@@ -1,2 +1,2 @@
-# Ceci est le code source du futur site de Infernus
+# Ceci est le code source du future site de Infernus
 #
