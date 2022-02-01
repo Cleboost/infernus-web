@@ -6,10 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Infernus</title>
     <link rel="icon" href="images/icon.ico">
+    <link rel="stylesheet" href="index.css"></link>
+    <link rel="stylesheet" href="header.css"></link>
 </head>
 <body>
-    <?php include("header.php") ?>
-    <h1>Infernus</h1>
-    
+    <div class="headerPage"><?php include("header.php") ?></div>
+    <p>Infernus</p>
 </body>
 </html>
