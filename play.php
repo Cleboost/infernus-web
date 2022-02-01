@@ -7,6 +7,8 @@
     <title>Play</title>
 </head>
 <body>
-    
+    <?php 
+    include('enDev.php')
+    ?>
 </body>
 </html>
